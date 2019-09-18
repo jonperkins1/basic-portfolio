@@ -1,9 +1,18 @@
 
-#header {
-    background: aliceblue;
+body {
+    background-image: url('../images/interlaced.png');
     
     
 }
+
+
+#header {
+    background-color: aliceblue;
+    background-image: none;
+    
+    
+}
+
 
 
 h1 {
@@ -16,6 +25,12 @@ h1 {
     
 
 }
+
+
+#full {
+    background-image: url('../images/interlaced.png');
+}
+
 
 a {
     color: gray;
@@ -31,4 +46,6 @@ a {
 
 #main-bio {
     clear:both;
+    
 }
+
