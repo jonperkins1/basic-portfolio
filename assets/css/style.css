@@ -9,19 +9,31 @@ body {
 
 
 #header {
-    background-color: aliceblue;
+    background-color: whitesmoke;
     background-image: none;
+    color: whitesmoke;
+    height:125px;
+    margin-left: 0px;
     
-    margin-left: 20px;
+    
 }
     
+.header-container: {
+    background-color: whitesmoke;
+    margin
+    width: 100%;
+    color: aliceblue;
+    
+}
+
 
 h1 {
     background-color: slategray;
     padding: 25px 5px 25px 50px;
     padding: 25px 25px 25px 50px;
     width: 140px;
-    margin: 20px 30px;
+    margin: 2px 30px;
+    margin-left: 50px;
     float: left;
     color: aliceblue;
 }
@@ -47,12 +59,14 @@ a {color: gray;}
 
  
 
+
 .container {
     background-color: aliceblue;
     margin-top: 0px; 
     border-color: gray;
     border: solid;
     margin-bottom: 20px;
+
 
 }
 
