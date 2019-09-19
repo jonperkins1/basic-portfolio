@@ -11,7 +11,7 @@ body {
 #header {
     background-color: aliceblue;
     background-image: none;
-    max-width: 960px;
+    
     margin-left: 20px;
 }
     
@@ -20,7 +20,7 @@ h1 {
     background-color: slategray;
     padding: 25px 5px 25px 50px;
     padding: 25px 25px 25px 50px;
-    width: 15%;
+    width: 140px;
     margin: 20px 30px;
     float: left;
     color: aliceblue;
@@ -52,6 +52,7 @@ a {color: gray;}
     margin-top: 0px; 
     border-color: gray;
     border: solid;
+    margin-bottom: 20px;
 
 }
 
@@ -107,8 +108,11 @@ p {
     text-align: center;
     font-size: 10px;
     clear: both;
+    margin-top: 30px;
     
      
     
 
 } 
+
+
