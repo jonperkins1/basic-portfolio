@@ -1,7 +1,7 @@
 body {
     background-image: url('../images/interlaced.png');
-    
-    
+
+
 }
 
 
@@ -10,24 +10,27 @@ body {
 #header {
     background-color: aliceblue;
     background-image: none;
-    max-width: 960px;
+    max-width: 960px;}
     
-    
-}
-
-
 
 h1 {
     background-color: slategray;
+    padding: 25px 5px 25px 50px;
     padding: 25px 25px 25px 50px;
     width: 15%;
     margin: 20px 30px;
     float: left;
-    color: aliceblue;
-    
-
 }
 
+a {color: gray;}
+
+#links {
+    float: right;
+    color: gray;
+    font-size: 20px;
+    margin-top: 40px;
+
+}
 
 #full {
     background-image: url('../images/interlaced.png');
@@ -35,17 +38,7 @@ h1 {
 }
 
 
-a {
-    color: gray;
-}
 
-#links {
-    float: right;
-    margin-top: 40px;
-    font-size: 20px;
-    color:gray;
-   
-}
 
 .container {
     background-color: aliceblue;
@@ -55,18 +48,20 @@ a {
 #main-bio {
     clear:both;
     margin-left: 25px;
-    
+    background-color: aliceblue;
+
 }
 
 h2 {
     color: gray;
     padding-left: 25px;
     font-size: 28px;
-    
+
 }
 
 footer {
     margin-left: 25px;
     text-align: center;
-    
-}
+    font-size: 10px;
+
+} 
