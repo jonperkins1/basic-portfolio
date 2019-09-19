@@ -36,6 +36,8 @@ a {color: gray;}
 
 }
 
+
+
 #full {
     
     max-width: 960px;
@@ -52,6 +54,8 @@ a {color: gray;}
     border: solid;
 
 }
+
+
 
 #floatimage {
     float: left;
@@ -83,12 +87,7 @@ h2 {
 
 }
 
-footer {
-    
-    text-align: center;
-    font-size: 10px;
 
-} 
 
 p {
    line-height: 30px;
@@ -101,3 +100,15 @@ p {
     
     
 }
+
+
+#footer {
+    
+    text-align: center;
+    font-size: 10px;
+    clear: both;
+    
+     
+    
+
+} 
