@@ -13,14 +13,14 @@ body {
     background-image: none;
     color: whitesmoke;
     height:125px;
-    margin-left: 0px;
+    margin-bottom: 0px;
+    
     
     
 }
     
 .header-container: {
     background-color: whitesmoke;
-    margin
     width: 100%;
     color: aliceblue;
     
@@ -90,6 +90,7 @@ a {color: gray;}
     margin-left: 25px;
     background-color: aliceblue;
     float: left;
+    margin-bottom: 10px;
     
 
 }
