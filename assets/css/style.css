@@ -15,7 +15,7 @@ body {
     height:115px;
     margin-bottom: 0px;
     border-style: solid;
-    border-bottom-width: 2px;
+    border-bottom-width: 3px;
     border-top-width: 0px;
     border-color: slategray;
     border-left-width: 0px;
@@ -178,7 +178,7 @@ p {
     padding: 15px;
     border-style: solid;
     border-bottom-width: 0px;
-    border-top-width: 2px;
+    border-top-width: 3px;
     border-color: slategray;
     border-left-width: 0px;
     border-right-width: 0px;
