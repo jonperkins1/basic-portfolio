@@ -40,17 +40,21 @@ body {
 
 h1 {
     background-color: slategray;
-    padding: 25px 5px 25px 50px;
-    padding: 25px 25px 25px 50px;
+    
+    padding: 25px 30px 25px 50px;
     width: 140px;
-    margin: 2px 30px;
+    margin-top: 0px; 
     margin-left: 50px;
+    
     float: left;
     color: aliceblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
 }
 
 a {color: gray;}
+
+
 
 #links {
     float: right;
@@ -130,10 +134,13 @@ a {color: gray;}
 }
 
 
+
+
 h2 {
     color: gray;
     padding-left: 25px;
-    font-size: 28px;
+    font-size: 25px;
+    font-family: calibri; 
 
 }
 
