@@ -8,7 +8,7 @@ body {
 
 
 
-#header {
+header {
     background-color: whitesmoke;
     background-image: none;
     color: whitesmoke;
@@ -35,6 +35,7 @@ body {
     background-color: whitesmoke;
     width: 100%;
     color: aliceblue;
+    margin: 0px;
     
     
 }
@@ -45,7 +46,7 @@ h1 {
     
     padding: 25px 30px 25px 50px;
     width: 140px;
-    margin-top: 0px; 
+    margin-top: 10px; 
     margin-left: 50px;
     
     float: left;
