@@ -146,7 +146,8 @@ p {
         border-color: gray;
         border-width: 1px;
         float: left;
-        margin: 10px;
+        margin: 10px 0px 10px 65px;
+        
         background-color: whitesmoke;
     }
 
@@ -174,8 +175,9 @@ p {
 
     .portfolio-images {
         width: 225px;
-        margin: 20px 20px 0px 30px;
+        margin: 20px 20px 0px 35px;
         height: 150px;
+        align-content: center;
         
     }
 
@@ -187,14 +189,13 @@ p {
         background-color: aliceblue;
         margin-right: 20px;
         margin-left: 40px;
-        max-width: 960px;
+        max-width: 980px;
         margin-bottom: 10px;
         margin-top: 25px;
         width: 85%;
-        text-align: center;
-        overflow: auto;
+         overflow: auto;
         display: inline-block;
-        align-content: center;
+        
         /*BORDER*/
         border-style: solid;
         border-bottom-width: 1px;
