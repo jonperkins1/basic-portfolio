@@ -218,7 +218,7 @@ p {
         background-color: whitesmoke;
         background-image: none;
         color: whitesmoke;
-        height: 110px;
+        height: 100px;
         margin-bottom: 0px;
         border-style: solid;
         border-color: slategray;
@@ -234,7 +234,7 @@ p {
     h1 {
         background-color: slategray;
         text-align: center;
-        padding: 4% 1% 10% 5%; 
+        padding: 20px 20px 40px 30px; 
         width: 100%;
         margin-top: 0; 
         margin-left: 0;
@@ -407,11 +407,11 @@ p {
     
     h1 {
         background-color: slategray;
-        
+        padding: 20px 20px 40px 30px; 
         width: 25%;
-        margin-top: 3%; 
-        margin-left: 10%;
-        margin-bottom: 1%;
+        margin-top: 5px; 
+        margin-left: 5px;
+        margin-bottom: 5px;
         height: 10px;
         float: left;
         color: aliceblue;
@@ -424,7 +424,7 @@ p {
         margin-top: 0px; 
         border-color: gray;
         border: solid;
-        margin-bottom: 50%;
+        margin-bottom: 5px;
         }
 
     #links {
