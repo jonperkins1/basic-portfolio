@@ -301,8 +301,8 @@ p {
 }
 
 #main-box {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 60px;
 }
     p { 
         padding-right: 10px;}
@@ -316,9 +316,17 @@ p {
         border-color: gray;
         border-width: 1px;
         float: left;
-        margin: 10px 65px 10px 65px;
+        margin: 10px 20px 10px 40px;
         
         background-color: whitesmoke;
+    }
+
+    .portfolio-images {
+        width: 225px;
+        margin: 20px 20px 0px 35px;
+        height: 150px;
+        align-content: center;
+        
     }
 
     footer {
