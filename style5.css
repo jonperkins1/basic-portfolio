@@ -240,7 +240,7 @@ p {
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 1;
-        height: 10%;
+        height: 8px;
         color: aliceblue;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         font-size: 20px;
@@ -408,7 +408,7 @@ p {
         margin-top: 3%; 
         margin-left: 10%;
         margin-bottom: 1%;
-        height: 25%;
+        height: 10px;
         float: left;
         color: aliceblue;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
