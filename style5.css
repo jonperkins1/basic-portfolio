@@ -298,6 +298,10 @@ p {
             border-left-width: 1px;
             border-right-width: 1px;
 }
+
+#main-box {
+    margin-left: 40px;
+}
     p { 
         padding-right: 10px;}
 
@@ -336,10 +340,10 @@ p {
     clear:both;
     background-color: black;
     margin-right: 0px;
-    margin-left: 60px;
-    max-width: 960px;
+    margin-left: 20px !important;
     margin-bottom: 10px;
     margin-top: 50px;
+    max-width: 960px;
     width: 80%;
     overflow: auto;
     text-align: center;
