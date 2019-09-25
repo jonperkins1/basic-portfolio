@@ -53,6 +53,7 @@ a {color: gray;
     border: solid;
     margin-bottom: 20px;
     border-style: solid;
+    
 }
 
 
@@ -94,7 +95,7 @@ p {
         margin-bottom: 10px;
         margin-top: 25px;
         max-width: 960px;
-        overflow: auto;
+        overflow: scroll;
         /*BORDER*/
         border-style: solid;
         border-bottom-width: 1px;
@@ -107,6 +108,7 @@ p {
         .wrapper {
     width: 70%;
     margin: 0 wrap;
+    
     }
 
      footer {
@@ -229,6 +231,14 @@ p {
 
     }
 
+    .container {
+        background-color: aliceblue;
+        margin-top: 0px; 
+        border-color: gray;
+        border: solid;
+        margin-bottom: 50%;
+        }
+
     h1 {
         background-color: slategray;
         text-align: center;
@@ -244,13 +254,7 @@ p {
         font-size: 20px;
     }
 
-    .container {
-        background-color: aliceblue;
-        margin-top: 0px; 
-        border-color: gray;
-        border: solid;
-        margin-bottom: 50%;
-        }
+    
 
         #main-bio {
             clear:both;
@@ -259,7 +263,7 @@ p {
             float: left;
             margin-bottom: 10%;
             align-content: center;
-            position: fixed;
+            position: relative;
             left: 1%;
             right: 1%;
             margin-right: 10%;
@@ -267,7 +271,7 @@ p {
             font-family: Arial, Helvetica, sans-serif;
             margin-top: 25px;
             font-size: 75%;
-            overflow: scroll;
+            overflow: auto;
             /*Border*/
             border-style: solid;
             border-bottom-width: 1px;
