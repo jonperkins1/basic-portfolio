@@ -277,7 +277,7 @@ p {
 
         #main-bio {
             clear:both;
-            margin-left: 10%;
+            margin-left: 3%;
             background-color: aliceblue;
             float: left;
             margin-bottom: 10%;
@@ -285,7 +285,7 @@ p {
             position: relative;
             left: 1%;
             right: 1%;
-            margin-right: 10%;
+            margin-right: 3%;
             max-width: 960px;
             font-family: Arial, Helvetica, sans-serif;
             margin-top: 25px;
