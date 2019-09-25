@@ -302,7 +302,7 @@ p {
 
 #main-box {
     margin-left: 20px;
-    margin-right: 60px;
+    margin-right: 120px;
     max-width: 95%;
 }
     p { 
@@ -317,7 +317,7 @@ p {
         border-color: gray;
         border-width: 1px;
         float: left;
-        margin: 10px 20px 10px 40px;
+        margin: 10px 10px 10px 40px;
 
         background-color: whitesmoke;
     }
