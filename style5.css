@@ -303,7 +303,7 @@ p {
 #main-box {
     margin-left: 20px;
     margin-right: 120px;
-    max-width: 640px;
+    width: 80%;
 }
     p { 
         padding-right: 10px;}
