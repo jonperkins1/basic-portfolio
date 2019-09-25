@@ -302,7 +302,7 @@ p {
 
 #main-box {
     margin-left: 20px;
-    margin-right: 120px;
+    margin-right: 120px !important;
     width: 80%;
 }
     p { 
