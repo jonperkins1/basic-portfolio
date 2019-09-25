@@ -303,6 +303,7 @@ p {
 #main-box {
     margin-left: 20px;
     margin-right: 60px;
+    max-width: 95%;
 }
     p { 
         padding-right: 10px;}
@@ -317,7 +318,7 @@ p {
         border-width: 1px;
         float: left;
         margin: 10px 20px 10px 40px;
-        
+
         background-color: whitesmoke;
     }
 
