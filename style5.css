@@ -310,6 +310,16 @@ p {
         width: 85%;
     }
 
+    .card {
+        border-style: solid;
+        border-color: gray;
+        border-width: 1px;
+        float: left;
+        margin: 10px 65px 10px 65px;
+        
+        background-color: whitesmoke;
+    }
+
     footer {
     
         text-align: center;
@@ -358,6 +368,7 @@ p {
     border-left-width: 1px;
     border-right-width: 1px;
 }
+
 
 }
 
