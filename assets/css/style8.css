@@ -5,6 +5,10 @@ body {
     
 }
 
+.wrapper_1 {
+    min-height: 78vh;
+}
+
 /* HEADER */
     header {
         background-color: whitesmoke;
@@ -129,7 +133,7 @@ p {
     display: inline-block;
     width: 100%;
     background-color: aliceblue;
-    margin-bottom: 0;
+    margin-bottom: 0px;
     color: black;
     padding: 15px;
 
@@ -190,6 +194,7 @@ p {
 
     /* CONTACT PAGE */
 
+    
     #contact-box {
         clear:both;
         background-color: aliceblue;
@@ -384,9 +389,7 @@ p {
     border-right-width: 1px;
 }
 
-.wrapper_contact {
-    min-height: 80vh;
-}
+
 
 /* Tablet */
 @media screen and (min-width: 641px) (max-width: 768px) {
